@@ -116,6 +116,6 @@ public class VarastoTest {
         varasto = new Varasto(-1,-1);
         assertEquals(0, varasto.getTilavuus(), vertailuTarkkuus);
         assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
-        assertEquals("saldo = 0, vielä tilaa 0" , varasto.toString(), vertailuTarkkuus);
+        assertEquals("saldo = 0.0, vielä tilaa 0.0" , varasto.toString());
     }
 }
