@@ -1,2 +1,1 @@
-# ohtu-viikko1-2014
-tehtävä 1 aloitettu
+[![Build Status](https://travis-ci.org/mluukkai/ohtutesti16.svg?branch=master)](https://travis-ci.org/mluukkai/ohtutesti16)
